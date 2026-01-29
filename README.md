@@ -49,17 +49,12 @@ A **full-featured Coffee Shop mobile app** built with **Flutter** following the 
   <tr>
     <td><img src="screenshots/login.jpeg" width="200" /><br>Login</td>
     <td><img src="screenshots/signup.jpeg" width="200" /><br>Sign Up</td>
-    <td><img src="screenshots/order_history.jpeg" width="200" /><br>Order History</td>
-    <td><img src="screenshots/payment_flow.jpeg" width="200" /><br>Payment Flow</td>
     <td><img src="screenshots/user_categories.jpeg" width="200" /><br>Categories</td>
-
-
-
+    <td><img src="screenshots/favorites.jpeg" width="200" /><br>Favorites</td>
   </tr>
   <tr>
-    <td><img src="screenshots/admin_home.jpeg" width="200" /><br>Order History</td>
-    <td><img src="screenshots/favorites.jpeg" width="200" /><br>Favorites</td>
-    <td><img src="screenshots/order_management_admin.jpeg" width="200" /><br>Categories</td>
+    <td><img src="screenshots/order_history.jpeg" width="200" /><br>Order History</td>
+    <td><img src="screenshots/payment_flow.jpeg" width="200" /><br>Payment Flow</td>
   </tr>
 </table>
 
@@ -70,14 +65,6 @@ A **full-featured Coffee Shop mobile app** built with **Flutter** following the 
   <tr>
     <td><img src="screenshots/admin_home.jpeg" width="200" /><br>Admin Dashboard</td>
     <td><img src="screenshots/order_management_admin.jpeg" width="200" /><br>Order Management</td>
-    <td><img src="screenshots/admin_search_orders.jpeg" width="200" /><br>Search Orders</td>
-    <td><img src="screenshots/order_details_admin.jpeg" width="200" /><br>Order Details</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/admin_checkout.jpeg" width="200" /><br>Checkout Orders</td>
-    <td><img src="screenshots/admin_role_switch.jpeg" width="200" /><br>Role Switching</td>
-    <td><img src="screenshots/admin_pending_orders.jpeg" width="200" /><br>Pending Orders</td>
-    <td><img src="screenshots/admin_processed_orders.jpeg" width="200" /><br>Processed Orders</td>
   </tr>
 </table>
 
@@ -98,3 +85,11 @@ A **full-featured Coffee Shop mobile app** built with **Flutter** following the 
 ```bash
 git clone https://github.com/ayesh-ayesha/coffee-shop-mobile-app.git
 cd coffee-shop-mobile-app
+
+## 📫 Contact / Connect
+
+- Email: ayeshasiddiqa1087@gmail.com
+- LinkedIn: www.linkedin.com/in/ayesha-siddiqa-85690224b
+- GitHub: https://github.com/ayesh-ayesha
+- Demo Video: https://drive.google.com/drive/folders/10fgonJ2nIU7Ra63D-QcOa8ASP62ZdUWw
+
