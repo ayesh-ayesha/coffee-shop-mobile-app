@@ -44,15 +44,42 @@ A **full-featured Coffee Shop mobile app** built with **Flutter** following the 
 
 ## 📸 Screenshots / Demo
 
-![SignUp Screen](screenshots/signup.jpeg)
-![Login Screen](screenshots/login.jpeg)  
-![Coffee Categories](screenshots/user_categories.jpeg)  
-![Favorites & Orders](screenshots/favorites.jpeg)  
-![Order History](screenshots/order_history.jpeg)
-![Admin Dashboard](screenshots/admin_home.jpeg)  
-![Order Management](screenshots/order_management_admin.jpeg)  
-![Payment Flow](screenshots/payment flow.jpeg)
+### 👤 User Screens
+<table>
+  <tr>
+    <td><img src="screenshots/login.jpeg" width="200" /><br>Login</td>
+    <td><img src="screenshots/signup.jpeg" width="200" /><br>Sign Up</td>
+    <td><img src="screenshots/order_history.jpeg" width="200" /><br>Order History</td>
+    <td><img src="screenshots/payment_flow.jpeg" width="200" /><br>Payment Flow</td>
+    <td><img src="screenshots/user_categories.jpeg" width="200" /><br>Categories</td>
 
+
+
+  </tr>
+  <tr>
+    <td><img src="screenshots/admin_home.jpeg" width="200" /><br>Order History</td>
+    <td><img src="screenshots/favorites.jpeg" width="200" /><br>Favorites</td>
+    <td><img src="screenshots/order_management_admin.jpeg" width="200" /><br>Categories</td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Admin Screens
+<table>
+  <tr>
+    <td><img src="screenshots/admin_home.jpeg" width="200" /><br>Admin Dashboard</td>
+    <td><img src="screenshots/order_management_admin.jpeg" width="200" /><br>Order Management</td>
+    <td><img src="screenshots/admin_search_orders.jpeg" width="200" /><br>Search Orders</td>
+    <td><img src="screenshots/order_details_admin.jpeg" width="200" /><br>Order Details</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/admin_checkout.jpeg" width="200" /><br>Checkout Orders</td>
+    <td><img src="screenshots/admin_role_switch.jpeg" width="200" /><br>Role Switching</td>
+    <td><img src="screenshots/admin_pending_orders.jpeg" width="200" /><br>Pending Orders</td>
+    <td><img src="screenshots/admin_processed_orders.jpeg" width="200" /><br>Processed Orders</td>
+  </tr>
+</table>
 
 
 ## 🛠 Tech Stack
