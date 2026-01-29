@@ -85,6 +85,7 @@ A **full-featured Coffee Shop mobile app** built with **Flutter** following the 
 ```bash
 git clone https://github.com/ayesh-ayesha/coffee-shop-mobile-app.git
 cd coffee-shop-mobile-app
+```
 
 ## 📫 Contact / Connect
 
