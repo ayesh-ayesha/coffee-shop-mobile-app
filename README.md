@@ -92,5 +92,5 @@ cd coffee-shop-mobile-app
 - Email: ayeshasiddiqa1087@gmail.com
 - LinkedIn: www.linkedin.com/in/ayesha-siddiqa-85690224b
 - GitHub: https://github.com/ayesh-ayesha
-- Demo Video: https://drive.google.com/drive/folders/10fgonJ2nIU7Ra63D-QcOa8ASP62ZdUWw](https://drive.google.com/file/d/1e53hw82dQtQXDssGNHW-gMAse6dPkVCG/view?usp=sharing)
+- Demo Video: https://drive.google.com/file/d/1e53hw82dQtQXDssGNHW-gMAse6dPkVCG/view?usp=sharing
 
