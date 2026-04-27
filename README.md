@@ -42,8 +42,9 @@ A **full-featured Coffee Shop mobile app** built with **Flutter** following the 
 
 ---
 
-## 📸 Screenshots / Demo
-
+## 📸 Demo
+watch the demo video here
+https://drive.google.com/drive/folders/10fgonJ2nIU7Ra63D-QcOa8ASP62ZdUWw
 ### 👤 User Screens
 <table>
   <tr>
